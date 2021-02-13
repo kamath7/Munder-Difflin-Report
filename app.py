@@ -34,3 +34,5 @@ while(True):
         pass
     else:
         break
+
+#To add - Auto generate id, auto generate date, auto calculate due date
